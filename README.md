@@ -1,6 +1,6 @@
 # presentacion-ManuelCara
 ------------------------------------
-https://user-images.githubusercontent.com/63756173/79489817-471b3500-7ff2-11ea-956a-6dcc71169aee.png
+
 ------------------------------------
 Legajo: 11225
 ------------------------------------
